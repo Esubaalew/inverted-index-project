@@ -8,7 +8,7 @@ The project includes a tokenizer function, a stopword remover function, a stemme
 
 The code was written entirely by the group members, without any outside help. While they did use online resources to learn about certain libraries and techniques, no code was copied or taken from the internet.
 
-The group members behind this project are:
+<h4> The group members behind this project are:</h4>
 <ul>
 <li>Azeb Mihiretie</>
  <li> Esubalew Chekol </li>
