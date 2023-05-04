@@ -1,0 +1,44 @@
+In Ethiopia around 1990, for / example, girls were prohibited from going to school?.
+that is why before Woyane's rise girls were in house and boys were in the Market!
+There was a saying still in use "Set wede majet,  wond wede chilot";
+This is illegal as our group member. even we talk about chikona of girls. 
+Before dergue failure there was a principle known to be  teritorial integrity integrity and fight for patriotism in battle.
+By the way most of Ethiopians think that patriotism is when one fight in battle for his country but this is completely wrong. 
+If every Ethiopian works hard in  his/her own field, that is patriotism/. 
+At that time by the way, 
+there was no Amhara, Oromia, Tigray but there was a teritory based admisnstartion as  Gojam, Shewa, 
+Wollega, Axum, Arsi and othetrs.
+
+This code was written by this group members, no one helped us, and any contents except some methods were written by our own knowledge. Nothing was copied from the interent or any other sources. BUT we learnt nltk specialy from the internet using the popular search engine [SERARCH.GOOGLE.COM]()
+
+> *To check this one can search any content of this code to any search engine and  verify if this code was copy.*
+
+BEHINDE THIS CODE ARE THE FOLLOWING PERSONALITIESS
+
+* **Azeb Mihiretie**
+* ***Esubalew Chekol***
+* ***Hayat Ebrahim***
+* ***Lidiya Fikrie***
+* ***Bereket Gebeyaw***
+
+This code may not reflect the perfect inverted  index but we tried to show our code with this shortest period of time.
+
+We used some the internet to learn  about nltk, panda specialy from  the [PYTHON.ORG]().
+
+We learnt something about tokenization from [MEDIUM.COM](), [GEEKSFORGEEKS.COM]()
+
+The code has to main parts the function defintion part and the main method part.
+
+We defined
+
+1. TOKENIZER()
+2. STOPWORDREMOVER()
+3. STEMMER() uses porterstmeer
+4. TF CALCULATOR () uses panda
+   functions.
+
+The main method contains codes that talks with the user. and performs its functions works.
+
+.........................................................................................................................................................
+
+............................................THANK YOU....................................................
