@@ -1,5 +1,7 @@
 # inverted-index-project
-Project Description
+<h1>Project Description</h1>
+<br>
+<hr/>
 This project is an implementation of an inverted index for text documents using Python. An inverted index is a data structure that allows for fast full-text searches, enabling users to search for keywords in a large collection of text documents. This project utilizes the Natural Language Toolkit (NLTK) library for tokenization, stopword removal, and stemming. It also uses the Pandas library for calculating term frequencies.
 
 The project includes a tokenizer function, a stopword remover function, a stemmer function that uses the Porter stemming algorithm, and a term frequency calculator function using Pandas. The main method contains code that interacts with the user and performs the desired functions.
